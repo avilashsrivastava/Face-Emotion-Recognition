@@ -34,7 +34,7 @@ I have also put a Dockerfile which you can use to build a docker image. To build
 * Type the following to build a docker image
 ```
 docker build -t appname:version
-``
+```
 
 # Check out the deployed app:
 
