@@ -25,6 +25,17 @@ cd Face-Emotion-Recognition
 * run the webcam
     `python camera.py`
 
+## Create a docker image:
+
+I have also put a Dockerfile which you can use to build a docker image. To build an image you must download [Docker](https://www.docker.com/products/docker-desktop)
+
+* After installating docker go to terminal or command prompt
+* Go inside the cloned folder `cd Face-Emotion-Recognition`
+* Type the following to build a docker image
+```
+docker build -t appname:version
+``
+
 # Check out the deployed app:
 
 Azure cloud - https://real-time-face-emotion-recognition-2021.azurewebsites.net
