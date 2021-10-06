@@ -1,4 +1,4 @@
-# Face-Emotion_Recognition
+# Face-Emotion-Recognition
 Deep Learning +MLE capstone project [Almabetter pro]
 
 
