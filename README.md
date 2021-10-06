@@ -1,6 +1,8 @@
 # Face-Emotion-Recognition
 Deep Learning +MLE capstone project [Almabetter pro]
 
+Here I have built a real time face emotion recognition training model and application to detect emotions
+
 
 # Check out the deployed app:
 
