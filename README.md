@@ -2,7 +2,7 @@
 Deep Learning +MLE capstone project [Almabetter pro]
 
 
-Check out the deployed app:
+# Check out the deployed app:
 
 Azure cloud - https://real-time-face-emotion-recognition-2021.azurewebsites.net
 
