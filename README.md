@@ -8,7 +8,7 @@ Here I have built a real time face emotion recognition training model and applic
 
 The model gave an accuracy of 76% for training set and 67% accuracy for test set. A web application was built and deployed on Azure and Streamlit cloud using streamlit API.
 
-## How to run locally:
+# How to run locally:
 
 To run the script you must have python or [anaconda](https://www.anaconda.com/products/individual) installed. After installation open 'anaconda prompt'
 
@@ -25,7 +25,7 @@ cd Face-Emotion-Recognition
 * run the webcam
     `python camera.py`
 
-## Create a docker image:
+# Create a docker image:
 
 I have also put a Dockerfile which you can use to build a docker image. To build an image you must download [Docker](https://www.docker.com/products/docker-desktop)
 
