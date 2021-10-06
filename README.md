@@ -29,7 +29,7 @@ cd Face-Emotion-Recognition
 
 I have also put a Dockerfile which you can use to build a docker image. To build an image you must download [Docker](https://www.docker.com/products/docker-desktop)
 
-* After installating docker go to terminal or command prompt
+* After installing docker go to terminal or command prompt
 * Go inside the cloned folder `cd Face-Emotion-Recognition`
 * Type the following to build a docker image
 ```
